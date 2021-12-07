@@ -1,0 +1,19 @@
+#header{
+    background-color: red;
+    height:80px;
+    width:100%
+}
+
+.logoListing{
+    height:40px;
+    width:40px;
+}
+
+a{
+    text-decoration: none;
+}
+
+#headingListing{
+    color:red;
+    margin: 20%;
+}
